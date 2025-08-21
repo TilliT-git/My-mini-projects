@@ -1,4 +1,4 @@
-# Weather Parser 🌤️
+# Weather Parser
 
 A simple Python script that fetches and displays the current weather for any city using the **wttr.in** service.
 
